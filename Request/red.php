@@ -8,8 +8,7 @@
 
 if (isset($_GET['go'])) { 
     header("Location: ./blue.php"); 
-    header("Location: ./red.php"); 
-
+    
 }
   
 //if (isset($_GET['color'])) {
