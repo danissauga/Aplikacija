@@ -25,7 +25,7 @@ $color = $_GET['color'];
 <body style="background-color:#<?php echo $color; ?>">
 
 <form id="a" name="a" action="" method="GET">
-<input id="spalva" name="spalva" placeholder="Iveskite spalva">
+<input id="color" name="color" placeholder="Iveskite spalva">
 <input id="priskirti" name="priskirti" type="submit" value="Priskirti spalva">
 </form>
 
